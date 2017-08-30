@@ -2,7 +2,7 @@
 
 Eventplanner Website Version 1.0 06/11/2016
 
-#GENERAL USAGE INFORMATION
+# GENERAL USAGE INFORMATION
 --------------------------------------------------------------------------------
 
 Eventplanner is a website specially designed for the people looking forward
@@ -19,7 +19,7 @@ on its availability on the particular day.
 
 ---------------------------------------------------------------------------------
 
-#REQUIREMENTS
+# REQUIREMENTS
 ---------------------------------------------------------------------------------
 
 This website requires the following platform:
@@ -39,7 +39,7 @@ This website requires the following platform:
 
 ---------------------------------------------------------------------------------
 
-#INSTALLATION
+# INSTALLATION
 ---------------------------------------------------------------------------------
  
  * Put DBMS folder into xampp\htdocs.
@@ -57,7 +57,7 @@ This website requires the following platform:
 
 ---------------------------------------------------------------------------------
 
-#TROUBLESHOOTING
+# TROUBLESHOOTING
 ---------------------------------------------------------------------------------
 
  * If the website does not display properly, check the following:
@@ -70,7 +70,7 @@ This website requires the following platform:
 
 --------------------------------------------------------------------------------
 
-#DEVELOPERS
+# DEVELOPERS
 --------------------------------------------------------------------------------
 
  * Shrinidhi S Talpankar (14CO143) - shrinidhitalpankar@gmail.com
